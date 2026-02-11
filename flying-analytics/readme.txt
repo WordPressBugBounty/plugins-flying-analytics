@@ -4,7 +4,7 @@ Contributors: gijo
 Donate link: https://www.buymeacoffee.com/gijovarghese
 Tags: google analytics, minimal analytics 
 Requires at least: 4.5
-Tested up to: 6.6
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 2.0.0
 License: GPLv2 or later

@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Flying Analytics: Self-Host Google Analytics v4 with Speed Optimization
+ * Plugin Name: Flying Analytics
  * Plugin URI: https://wordpress.org/plugins/flying-analytics/
  * Description: Self-host Google Analytics v4 or use Minimal Analytics, a lightweight gtag.js alternative, to improve site speed and enhance privacy.
  * Author: WP Speed Matters
